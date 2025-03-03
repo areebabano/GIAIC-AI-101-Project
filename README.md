@@ -1,4 +1,4 @@
-# GIAIC-AI-101-Project
+# 🌟 GIAIC-AI-101-Project 🌟
 
 # 🚀 Python & Streamlit Projects 🎉
 
