@@ -18,31 +18,31 @@ Welcome to this exciting collection of **Python** and **Streamlit** projects, al
 
 ### 🎯 Guess the Number - User (Python)
 🧠 **Description:** In this fun game, you **guess the number** chosen by the computer. Can you get it right?
-- 🔗 [Play on Colab](https://colab.research.google.com/drive/1eoyeSys9EaRxnP4f4K_JbbsoYIQ-rre9)
+- 🔗 [Run on Colab](https://colab.research.google.com/drive/1eoyeSys9EaRxnP4f4K_JbbsoYIQ-rre9)
 
 ### 🤖 Guess the Number - Computer (Python)
 🎮 **Description:** Here, the **computer** tries to guess the number you have in mind. Who will win—You or AI?
-- 🔗 [Challenge the AI](https://colab.research.google.com/github/areebabano/GIAIC-AI-101-Project/blob/main/Guess_the_number(computer).ipynb#)
+- 🔗 [Run on Colab](https://colab.research.google.com/github/areebabano/GIAIC-AI-101-Project/blob/main/Guess_the_number(computer).ipynb#)
 
 ### 🔤 Hangman Game (Python)
 📝 **Description:** The classic **Hangman** game! Guess the hidden word before you run out of attempts. Test your vocabulary skills!
-- 🔗 [Play Hangman](https://colab.research.google.com/drive/19f5kZLq_g4GB7f8n1PtpPsLNvQ9JOltc#scrollTo=umXG6Oi7XV2T)
+- 🔗 [Run on Colab](https://colab.research.google.com/drive/19f5kZLq_g4GB7f8n1PtpPsLNvQ9JOltc#scrollTo=umXG6Oi7XV2T)
 
 ### 📖 Mad Lib Game (Python)
 🤣 **Description:** A hilarious **word game** where you fill in the blanks to create a fun, wacky story!
-- 🔗 [Try it on Colab](https://colab.research.google.com/github/areebabano/GIAIC-AI-101-Project/blob/main/Mad_Lib_Game.ipynb)
+- 🔗 [Run on Colab](https://colab.research.google.com/github/areebabano/GIAIC-AI-101-Project/blob/main/Mad_Lib_Game.ipynb)
 
 ### 🔑 Password Generator (Python)
 🔒 **Description:** Secure your accounts with a **strong, random password generator**. No more weak passwords!
-- 🔗 [Generate Secure Passwords](https://colab.research.google.com/drive/1Bpnive1kb0K1LKuw-9McwNRm2pzIi3-Y#scrollTo=dHrJXrkzJA8X)
+- 🔗 [Run on Colab](https://colab.research.google.com/drive/1Bpnive1kb0K1LKuw-9McwNRm2pzIi3-Y#scrollTo=dHrJXrkzJA8X)
 
 ### 📝 To-Do List (Streamlit)
 📋 **Description:** A simple yet powerful **To-Do List app** where you can add, delete, and track tasks efficiently.
-- 🔗 [Use it on Colab](https://colab.research.google.com/drive/1ZO1FZtOQg3ckR474ydy54MVwVXSgvm0O#scrollTo=pKwQfMpofuP2)
+- 🔗 [Try it on Colab](https://colab.research.google.com/drive/1ZO1FZtOQg3ckR474ydy54MVwVXSgvm0O#scrollTo=pKwQfMpofuP2)
 
 ### ✊ Rock Paper Scissors (Python)
 🕹️ **Description:** The classic **Rock, Paper, Scissors** game! Play against the computer and see if you can outsmart it!
-- 🔗 [Challenge the Computer](https://colab.research.google.com/drive/1j3prSCgVvjaYNi7jBaAipn78meVLHa3v#scrollTo=TOc5DaZ9NfSw)
+- 🔗 [Run on Colab](https://colab.research.google.com/drive/1j3prSCgVvjaYNi7jBaAipn78meVLHa3v#scrollTo=TOc5DaZ9NfSw)
 
 ---
 
